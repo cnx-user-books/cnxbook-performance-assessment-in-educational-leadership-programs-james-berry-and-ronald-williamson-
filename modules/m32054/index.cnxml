@@ -1,0 +1,397 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>4. Designing Performance Assessments: A Guide for Faculty; Gary Marx</title>
+  <metadata>
+  <md:content-id>m32054</md:content-id><md:title>4. Designing Performance Assessments: A Guide for Faculty; Gary Marx</md:title>
+  <md:abstract>This chapter outlines a strategy developed by the Educational Leadership faculty at Eastern Michigan University (EMU) for designing performance assessments based on standards for Educational Leadership. The strategy is not intended to suggest a model of best practice. Rather, it is presented as one example of how this work might be done and was written to assist faculty at other institutions confronted with the challenges of developing performance assessments for Educational Leadership curriculum.</md:abstract>
+  <md:uuid>f628c716-0efb-43ca-8c0e-1f948121220a</md:uuid>
+</metadata>
+
+<content>
+    <note id="eip-275">This module has been peer-reviewed, accepted, and sanctioned by the National Council of Professors of Educational Administration (NCPEA) as a significant contribution to the scholarship and practice of education administration. In addition to publication in the Connexions Content Commons, this module is published in the <link url="http://ijelp.expressacademic.org">International Journal of Educational Leadership Preparation, </link> Volume 4, Number 4 (October – December 2009). Formatted and edited in Connexions by Theodore Creighton, Virginia Tech.</note><section id="id18092778">
+      <title>Introduction</title>
+      
+      <para id="id10699544">Standards and curriculum are related but they are not the same. The written curriculum for a program describes what is most important to teach and provides specific guidance about the scope and sequence of instruction (Squires, 2005). The basic structure for curriculum in school administrative preparation programs typically consists of a required series of courses organized around a conceptual framework or a set of functional responsibilities associated with the role of principal or superintendent. The theoretical frame or functions guide the distribution of content across the required courses to ensure that students encounter what they need to know and be able to do as they progress through their program of study. The original organizing principles for a program curriculum may be tacit or explicit and determine the scope and sequence of instruction. </para>
+      <para id="id7177233">Standards specify desired program outcomes but they do not indicate how the standards should be met; the means to outcome achievement is the realm of curriculum. Standards-based reform can be thought of as an attempt to standardize the structural framework used to organize the curriculum, thus influencing the quality of instruction and ultimately improving the quality of practicing school administrators. The goal of standards-based assessment at the program level is to collect data about the performance of participants in the program in relation to the expectations, analyze the results, and use that information for purposes of program development. </para>
+      <para id="id17452058">University program accreditation agencies such as the National Council for the Accreditation of Teacher Education (NCATE) and many state program approval processes currently utilize a standards-based methodology. This chapter provides guidance for faculty who must respond to the mandated use of performance assessments by accreditation and state program approval agents to document that graduates from their Educational Leadership programs have met some set of standards. </para>
+      <para id="id12312902">The examples in this chapter use the performance expectations and indicators for educational leaders recently published by the Council of Chief State School Officers (CCSSO, 2008) as a referent set of standards to illustrate the process of performance assessment design at the leadership program level. This set was selected because the Educational Leadership Constituent Council (ELCC), the Specialized Professional Association for Educational Leadership programs for NCATE, will use CCSSO 2008 performance expectations as a foundation for its seven-year review of program standards and revised ELCC standards are anticipated in 2009. The steps in the assessment design process will be the same regardless of which set of standards or performance expectations faculty are required to use.</para>
+      <para id="id12312906">The chapter provides specific guidance for completing the six steps in the design phase of quality performance assessment described by Dr. Anderson in Chapter 2. It begins with a description of how to use a two-dimensional matrix to help determine where and how often to assess each standard and provides suggestions for how to address overlapping standards and unequal distribution patterns. The next section presents an example of a performance assessment to illustrate how one develops an assessment activity and identifies the product of assessment. Guidelines for how to develop assessment criteria, write a scoring rubric, and establish evaluation performance standards are then provided. The chapter concludes with a brief overview of the evaluation, implementation and program development phases of performance assessment as they relate to design.</para>
+    </section>
+    <section id="id10377056">
+      <title>High Quality Performance Assessment: The Design Phase</title>
+      <para id="id12639249">As discussed in Chapter 2 there are multiple steps in designing a performance activity. The following sections describe the six steps and utilize an example of a performance activity developed at Eastern Michigan University to illustrate the process.</para>
+      <section id="id13823764">
+        <title>Step 1: Decide Where the Standards Should be Assessed</title>
+        <para id="id16630182">The first step in the design process is to determine where and how often priority standards will be assessed. It is helpful to start with an examination of how well the curriculum in place is currently aligned with the expected outcomes in the standards document and then make adjustments where necessary. A matrix is a good tool for critically analyzing how particular outcomes are currently distributed across courses in the program and identifying gaps that may exist. </para>
+        <para id="id4708584">Table 1 uses Performance Expectation 2 from CCSSO 2008 to illustrate the matrix organization. Regardless of the standards document used, it is important that the items included in the matrix utilize the finest grain descriptions available. Each CCSSO 2008 performance expectation is subdivided into elements and each element includes a set of specific indicators of performance. Since the indicators for the various elements represent the smallest units in the set, brief descriptions of each indicator along with a reference code are listed down the left side of the matrix in the example. The various courses included in the program curriculum are then listed in separate columns across the top of the matrix. In this example, Instructional Leadership and School Improvement are hypothetical classes that deal with topics related to the supervision of instruction and school reform respectively. In actual practice, the matrix would include all of the standard elements and all of the courses required by the program of study.</para>
+        
+        
+        <table id="id18064378" summary=""><title>Sample Distribution and Alignment Matrix</title><tgroup cols="5">
+		<colspec colnum="1" colname="c1"/>
+		<colspec colnum="2" colname="c2"/>
+		<colspec colnum="3" colname="c3"/>
+		<colspec colnum="4" colname="c4"/>
+		<colspec colnum="5" colname="c5"/>
+		<tbody>
+			<row>
+				<entrytbl namest="c1" nameend="c2" cols="1">
+					<colspec colnum="1" colname="c1"/>
+					<tbody>
+						<row>
+							<entry>Performance Expectation 2: Teaching and Learning</entry>
+						</row>
+						<row>
+							<entry><emphasis effect="italics">Performance Expectations and Indicators for Education Leaders</emphasis> (CCSSO 2008) </entry>
+						</row>
+					</tbody>
+				</entrytbl>
+				<entry namest="c3" nameend="c5">Curriculum Offerings</entry>
+			</row>
+			<row>
+				<entry namest="c1" nameend="c2">Element A. Strong Professional Culture</entry>
+				<entry>Instructional Leadership</entry>
+				<entry>School Improvement</entry>
+				<entry>Etc.</entry>
+			</row>
+			<row>
+				<entry>Indicators</entry>
+				<entry/>
+				<entry/>
+				<entry/>
+				<entry/>
+			</row>
+			<row>
+				<entry>A - 1</entry>
+				<entry>Commitment to high expectations</entry>
+				<entry>X</entry>
+				<entry> </entry>
+				<entry> </entry>
+			</row>
+			<row>
+				<entry>A - 2</entry>
+				<entry>Guides standards-based professional development</entry>
+				<entry>X</entry>
+				<entry> </entry>
+				<entry> </entry>
+			</row>
+			<row>
+				<entry>A - 3</entry>
+				<entry>Models collaboration that improves practices </entry>
+				<entry>X</entry>
+				<entry> </entry>
+				<entry> </entry>
+			</row>
+			<row>
+				<entry>A - 4</entry>
+				<entry>Develops resources to build professional culture</entry>
+				<entry>X</entry>
+				<entry> </entry>
+				<entry> </entry>
+			</row>
+			<row>
+				<entry>A - 5</entry>
+				<entry>Supports staff examination of beliefs &amp; practices</entry>
+				<entry>X</entry>
+				<entry> </entry>
+				<entry> </entry>
+			</row>
+			<row>
+				<entry>A - 6</entry>
+				<entry>Provides ongoing feedback</entry>
+				<entry>X</entry>
+				<entry> </entry>
+				<entry> </entry>
+			</row>
+			<row>
+				<entry>A - 7 </entry>
+				<entry>Guides individual professional development plans</entry>
+				<entry>X</entry>
+				<entry> </entry>
+				<entry> </entry>
+			</row>
+			<row>
+				<entry namest="c1" nameend="c5"/>
+			</row>
+			<row>
+				<entry namest="c1" nameend="c2">Element B. Rigorous Curriculum and Instruction</entry>
+				<entry> </entry>
+				<entry> </entry>
+				<entry> </entry>
+			</row>
+			<row>
+				<entry>Indicators</entry>
+				<entry/>
+				<entry/>
+				<entry/>
+				<entry/>
+			</row>
+			<row>
+				<entry>B - 1</entry>
+				<entry>Develops shared understanding of rigor</entry>
+				<entry>X</entry>
+				<entry> </entry>
+				<entry> </entry>
+			</row>
+			<row>
+				<entry>B - 2</entry>
+				<entry>Guides alignment process</entry>
+				<entry>X</entry>
+				<entry> </entry>
+				<entry> </entry>
+			</row>
+			<row>
+				<entry>B - 3</entry>
+				<entry>Monitors curriculum &amp; instructional system effects</entry>
+				<entry>X</entry>
+				<entry> </entry>
+				<entry> </entry>
+			</row>
+			<row>
+				<entry>B - 4 </entry>
+				<entry>Uses research &amp; data-based strategies &amp; practices</entry>
+				<entry>X</entry>
+				<entry> </entry>
+				<entry> </entry>
+			</row>
+			<row>
+				<entry namest="c1" nameend="c5"> </entry>
+			</row>
+			<row>
+				<entry namest="c1" nameend="c2">Element C. Assessment and Accountability</entry>
+				<entry> </entry>
+				<entry> </entry>
+				<entry> </entry>
+			</row>
+			<row>
+				<entry>Indicators</entry>
+				<entry/>
+				<entry/>
+				<entry/>
+				<entry/>
+			</row>
+			<row>
+				<entry>C -1 </entry>
+				<entry>Uses data to improve the quality of teaching &amp; learning</entry>
+				<entry>X</entry>
+				<entry>X</entry>
+				<entry> </entry>
+			</row>
+			<row>
+				<entry>C -2 </entry>
+				<entry>Uses varied sources &amp; kinds of information to guide evaluation</entry>
+				<entry> </entry>
+				<entry>X</entry>
+				<entry> </entry>
+			</row>
+			<row>
+				<entry>C - 3</entry>
+				<entry>Guides regular analyses &amp; disaggregation of data</entry>
+				<entry> </entry>
+				<entry>X</entry>
+				<entry> </entry>
+			</row>
+			<row>
+				<entry>C - 4</entry>
+				<entry>Uses systems to monitor &amp; analyze assessment results</entry>
+				<entry> </entry>
+				<entry>X</entry>
+				<entry> </entry>
+			</row>
+			<row>
+				<entry>C - 5</entry>
+				<entry>Interprets data and communicates progress </entry>
+				<entry> </entry>
+				<entry>X</entry>
+				<entry> </entry>
+			</row>
+		</tbody>
+	</tgroup>
+</table>
+        <para id="id17364010">Next, faculty review course syllabi and indicate which of the elements in the matrix are intended outcomes of instruction in the various courses by placing an “X” in the appropriate cell. The completed matrix is then analyzed to determine patterns of distribution and identify any gaps where certain elements are not being addressed. In the example, there are no gaps for Performance Expectation 2 and only one indicator is taught in both of the two courses listed. The patterns in the sample matrix also show that assessment and accountability in this hypothetical program curriculum are topics addressed apart from curriculum, instruction, and professional development. This mapping process graphically illustrates the distribution of performance indicators across courses and the matrix is a good way to provide accreditation or program reviewers with evidence that the curriculum is aligned with the standards once any required adjustments have been made in response to the initial findings.</para>
+        <para id="id17834479">During the construction of the alignment and distribution matrix it is likely that some indicators will be listed as intended outcomes in multiple courses. These overlaps occur because standards documents are organized around performance categories and the curriculum for many leadership preparation programs are organized around traditional course offerings, each of which can cover a range of performances. Where performance indicators overlap multiple courses, faculty are faced with a decision regarding whether to use multiple assessments of the same performance or assign each indicator to a unique course and assess the performance only once in the program. </para>
+        <para id="id6030869">When making a decision regarding the final distribution of indicators, faculty should consider the total assessment burden associated with each course. In programs organized around traditional course offerings, the assessment burden will usually be greater in classes that emphasize the application of knowledge and skills than in classes that focus on the development of theoretical frameworks. This bias toward relevance and practicality is embedded in the standards documents themselves, which emphasize the enactment of leadership. </para>
+        <para id="id6030873">To illustrate assessment burden, consider a curriculum where courses are organized around the standards categories themselves, such as offering a course called Teaching and Learning that addresses the indicators included in performance expectation 2 as shown above. In this case the assessment burden will be quite large because 16 total indicators must be assessed. When courses in a curriculum are organized by content or functional role, offering one class on instructional leadership and another on school improvement as shown in the example above, the assessment burden is likely to be less but still unequal within courses (12 indicators versus 5 indicators that must be assessed in this example). Although multiple measures enhance assessment validity, faculty should consider the practical aspects of how much time will be required to assess student work, and based on our experience, the time commitment is significant where multiple indicators are involved.</para>
+        <para id="id17547961">One way to reduce the assessment burden is to redistribute performance indicators or defining certain indicators as secondary outcomes in some of the courses. In the example above, using data to improve the quality of teaching and learning might be assessed as a primary outcome in the School Improvement course based on a rationale that the content emphasizes data and information management. The use of data to inform practice would still remain a content topic in the instructional leadership class but it would not be included in the performance assessment for that class. Once these decisions are made, the matrix should be updated to clearly communicate how overlaps have been addressed. Removing the “X” in the matrix row or coding the indicators that are designated as secondary outcomes would be ways to communicate where each of the indicators will be assessed.</para>
+        <para id="id17547965">This section briefly outlined a procedural method and provided suggestions for aligning and distributing standards within the leadership preparation program curriculum. The procedure ensures that students have the opportunity to acquire the leadership knowledge and skills associated with a standards document as they complete their academic work. Deciding how each performance indicator will actually be assessed is the focus of steps 2 and 3 in the design process.</para>
+      </section>
+      <section id="id11234749">
+        <title>Step 2: Determine the Assessment Activity</title>
+        <para id="id11829266">The primary design challenge for faculty in educational leadership programs involves creating opportunities for authentic performances that allow students who do not serve in formal leadership roles to demonstrate their competence as leaders. The first task is to identify the key performances that are associated with each expectation and the place to start is with a close examination of the standards document and any available supporting material.</para>
+        <para id="id13016123">CCSSO 2008 provides a narrative description of each performance expectation statement along with a list of elements and performance indicators intended to link the generalized description of the expectation to the practice of educational leadership. Table 1 above listed the three elements associated with the teaching and learning expectation: (a) strong professional culture; (b) rigorous curriculum and instruction; and, (c) assessment and accountability. </para>
+        <para id="id16513120">By reviewing the full text of the indicator descriptions listed under each CCSSO 2008 performance expectation anyone familiar with common practices in the field should be able to identify things educational leaders do when they are engaged in these aspects of their work. Simulating the challenges of authentic leadership practice so that students can demonstrate competence is the goal of good performance assessment design. The task is to create a context where students are required to demonstrate the identified leadership activities and behaviors. Once an assessment activity has been identified, the next step is to decide how the performance will be documented so an evaluator can make judgments about quality.</para>
+      </section>
+      <section id="id16154480">
+        <title>Step 3: Identify the Assessment Object</title>
+        <para id="id7926862">By definition, performances involve observable behavior so the assessment activity must require students to act in ways that demonstrate competence in meeting the associated standard elements. Ideally, these performances will occur in real school settings so the assignment must also include some mechanism for presenting tangible evidence of the performance that can be reviewed and evaluated by faculty. This can include a wide range of objects or deliverables including such things as journals, videos, portfolios, plans, presentations, podcasts, and so on. </para>
+        <para id="id17393614">The Field Based Teaching and Learning Project in Table 2 illustrates a performance activity written to address the elements that were assigned to the hypothetical Instructional Leadership course in the alignment matrix shown in Table 1. Thus, the assessment tasks address all of the indicators for professional culture and rigorous curriculum and instruction (elements “a” and “b”), and the “data use” element from assessment and accountability (element “c”). The narrative for the CCSSO 2008 Teaching and Learning Performance Expectation and the complete list of elements and performance indicators can be viewed in the Appendix. </para>
+        <para id="id17393618">The Field Based Teaching and Learning Project assessment activity is composed of five interrelated assignments in the areas of teaching and learning that require graduate students to apply leadership skills that enable and encourage reflective professional practice on the part of teachers in a school. Each assignment in the example begins with a description of the required performance and concludes with the evidence (object) that must be provided for final evaluation. The elements and indicators from the Teaching and Learning Performance Expectation (CCSSO 2008) that are assessed by the assignment are referenced within the parentheses at the end of each assignment. Notice that the description of the assessment activity uses words taken directly from the CCSSO 2008 document whenever possible, which makes alignment between assessments and standards transparent.</para>
+        <para id="id10391899">The assignments in the Teaching and Learning Project example use professional collaboration among peers as the context for eliciting the various behaviors. Similar assignments could be designed using the context of a clinical cycle involving a preconference, observation and post conference if the intent of the project was to simulate supervision of instruction. The idea is to find some meaningful and practical way that students can apply their knowledge and skills. In addition to being relevant, the tasks should also be motivating, challenging, and achievable. </para>
+        <para id="id17043968">When the decision about how to assess a performance indicator is finalized, the focus of design shifts to the evaluation process itself. Steps 4 through 6 illustrate how to develop an assessment rubric, a set of scoring guidelines intended to inform students regarding expectations and serve as the evaluative lens.</para>
+        
+        <para id="id8686383"><emphasis effect="bold">Sample Performance Activity/Field Based Teaching and Learning Project</emphasis></para>
+        
+        <list id="id18137188" list-type="enumerated" number-style="arabic">
+          <item>Recruit 1-2 peers in the workplace to join you in a learning community and work as a team to complete the assignments in this project. Maintain a reflective journal of your activities that includes a brief description of actions taken, reflections on the leadership behaviors you exhibited, and thoughts about how your leadership actions might be refined or strengthened. (A-3, A-4) </item>
+          <item>Using standards-based accountability data, identify a problem of instructional practice at the classroom level that is related to a broader issue of student learning and performance within a particular content area in the school. Submit a written problem statement that includes a description of the procedures and processes used by the team to identify this as an area of concern and how the problem of practice is situated in the broader school improvement plan. (C-1, A-1)</item>
+          <item>Select a unit of study from the district curriculum for the content area you identified above and conduct two audits: 1) to determine alignment of curriculum, pedagogy, and assessment; and, 2) to determine alignment of the unit outcomes with state content standards and benchmarks. Prepare a written report of your findings and make recommendations for enhancing the unit through the use of technology and research based instructional strategies in ways that fully accommodate learners’ diverse needs. (B-1, B-2, B-4)</item>
+          <item>Collaborate with your team to address the problem of practice you identified in your own work setting using observation and feedback strategies and practices to analyze student work, monitor progress, and redesign curriculum and instruction as needed to meet diverse needs. (A-6, A-3, B-1, B-3, B-4) </item>
+          <item>Reflect on your experiences completing this project and evaluate your current level of knowledge and skills as instructional leaders. Use the results of the evaluation to guide development of a professional growth plan for your team that reflects an on-going commitment to continuous improvement of teaching and learning. Prepare a written summary of the team discussion and an action plan that outlines specific goals and agreed upon expectations for how you will support each other’s learning over time. (A-2, A-5, A-7)</item>
+        </list>
+        
+      </section>
+      <section id="id10594371">
+        <title>Step 4: Define the Assessment Criteria</title>
+        <para id="id17441885">Rubric design begins with a determination of the criteria that will be used to make judgments about quality. Criteria specify expectations regarding the types of behavior or attributes that should be evident in the performance. For example, prior to the 2006 Winter Olympics figure skating free skate performances were rated based on two criteria: technical merit and presentation. </para>
+        <para id="id13263724">When writing performance assessments to professional standards documents, the standards themselves specify the major assessment criteria. In the curriculum and instruction element from CCSSO 2008 reprinted in Table 3, the products of performance must include evidence the student developed shared understanding, ensured alignment, monitored effects of curriculum and instruction, and used data-based strategies and research in the process. </para>
+        
+        
+        <table id="id16452153" summary=""><title>CCSSO Expectations</title><tgroup cols="2">
+		<colspec colnum="1" colname="c1"/>
+		<colspec colnum="2" colname="c2"/>
+		<tbody>
+			<row>
+				<entry namest="c1" nameend="c2">CCSSO 2008: Expectation 2, Element B: Rigorous Curriculum and Instruction</entry>
+			</row>
+			<row>
+				<entry>B - 1</entry>
+				<entry>Develops shared understanding of rigor</entry>
+			</row>
+			<row>
+				<entry>B - 2</entry>
+				<entry>Guides alignment process</entry>
+			</row>
+			<row>
+				<entry>B - 3</entry>
+				<entry>Monitors curriculum &amp; instructional system effects</entry>
+			</row>
+			<row>
+				<entry>B - 4 </entry>
+				<entry>Uses research &amp; data-based strategies &amp; practices</entry>
+			</row>
+		</tbody>
+	</tgroup>
+</table>
+        <para id="id12536678">When criteria are explicit and clear, inter-rater reliability is likely to be higher. As discussed in Chapter 3, clear criteria also inform instruction and guide student learning. However, clarity is usually associated with specificity and writing detailed criteria is labor intensive. For example, consider what would be involved to establish specific criteria for evaluating the degree to which a student developed “a shared understanding of rigorous curriculum and instruction” in a reflective journal. Most departments will likely defer developing criteria statements and in many cases the standards descriptions will become the de facto set (at least initially). The question that must be addressed by each department is how specific the criteria must be to guide evaluation and contribute to program development. Criteria can be refined as departments study performance results and examine student work in later steps in the process. When criteria have been selected, the next task is to incorporate the criteria as statements in an assessment rubric.</para>
+      </section>
+      <section id="id6520878">
+        <title>Step 5: Develop the Assessment Rubric</title>
+        <para id="id10115477">An assessment rubric identifies the characteristics of possible responses along a continuum from exceptional to unacceptable. The rubric can be designed to address each assessment criterion individually or combine a number of criteria for a holistic evaluation. Decisions about individual versus holistic scoring will affect the complexity of the evaluation task. Although a case can be made for individual criterion scoring, our experience disclosed that the behaviors associated with the assessment products we received from students were complex and variable so it made more sense to evaluate how well multiple expectations were integrated in a student’s response using a holistic approach. A related decision in rubric design involves how many performance levels you will use for each criterion and what you will name them. Too many categories can make it difficult to describe how one differentiates performance so we recommend starting with three: Exceeds Standards, Meets Standards, and Does Not Meet Standards.</para>
+        <para id="id10115481">One of the acknowledged purposes for developing performance assessments is to provide evidence to accreditation agencies that students have met the criteria for professional licensure or certification. Among other things, accreditation reviewers will be looking for alignment between the standards expectations and the performance assessments used to judge competence. Incorporating the language of the standards in the rubrics used to evaluate student performance makes the logic of alignment transparent and simplifies accreditation review. However, using the language of the standards often results in generalized descriptions of the evaluation criteria, which is not particularly helpful for students trying to write to the rubric. Providing students with templates and sample responses for each assignment are ways to overcome vague rubrics written to ensure alignment is clear. </para>
+        <para id="id15645535">Begin writing rubrics with a descriptive statement of the knowledge or skill being assessed (as specified in the assessment criteria) and then adding words and phrases that depict the degree of performance involved at that particular level. In the following example of a rubric written for assignment 1 in the Teaching and Learning Project we decided to incorporate the standards language to ensure a reviewer can clearly identify the elements and indicators that are being assessed. We start by using the basic language of the standard as the statement for Meets Standards and then downgrade and embellish the descriptions for Does Not Meet and Exceeds. </para>
+      </section>
+      <section id="id8357546">
+        <title>Sample Rubric for Teaching and Learning Project Assignment 1</title>
+        <para id="id12791315">For the first assignment students had to recruit 1-2 peers to join them in forming a learning community that worked as a team to complete all of the assignments in the project. The assessment product was a reflective journal that included brief descriptions of actions taken, reflections on the leadership behaviors exhibited while forming and facilitating the team, and thoughts about how the student’s leadership actions might be refined or strengthened. </para>
+        <para id="id11030525">The following two indicators from the professional culture element in the Teaching and Learning Performance Expectation (CCSSO 2008) were assessed using this performance:</para>
+        
+        <para id="eip-113">Assignment 1:  Reflective Journal Summary Report Template</para><list id="eip-493" list-type="labeled-item"><item>“Models openness to change and collaboration that improves practices and student outcomes” (A-3), and</item>
+	<item>“Develops time and resources to build a professional culture of openness and collaboration, engaging teachers in sharing information, analyzing outcomes, and planning improvement” (A-4).</item>
+	</list>
+        
+        
+        <para id="id17448226">Here is a rubric sample statement for “Meets Standards”: </para>
+        
+        <section id="eip-771"><title/><para id="eip-45">
+Works with at least one peer in the workplace to complete the assignments in the project. The reflective journal summary report demonstrates openness to change and the ability to build a professional culture of collaboration that improves practices and student outcomes by engaging teachers in sharing information, analyzing results, and planning improvement. 
+</para></section><para id="id17347770">Note how the statement uses the language of the standard element indicators to establish the descriptive criteria for acceptable performance. Multiple indicators assessed by the same assignment are often related in some way (in this example, collaboration is the organizing theme) so the rubric writer can either integrate the related indicators within one sentence as we did here or write separate sentences for each indicator.</para>
+        <para id="id17362048">Successfully recruiting and engaging at least one other person in the workplace in activities intended to improve teaching and learning is evidence that the student can actually lead this work and thus, meets the standard. Given that most students would have to accomplish this absent formal authority is challenging for novices so the rubric for unacceptable performance (Does Not Meet Standards) was written to make it possible for people to meet the standard at varying levels. The content of the reflective journal is intended to provide details regarding the leadership processes and practices employed by the student so it should be possible to make a judgment about the existence of a leadership strategy even if participation results are sparse.</para>
+        <para id="id12326112">A rubric statement example for “Does Not Meet Standards”:</para>
+        
+        <section id="eip-285"><para id="eip-282">
+Is unable to recruit anyone to collaborate on completing even some part of an assignment in the project. The activities cited in the reflective journal summary report lack any clear leadership strategy for building a professional culture of collaboration that improves practices and student outcomes.
+</para></section><para id="id17035206">The final step is to determine criteria for exceptional performance (Exceeds Standards). In our example, the emphasis was placed on the results of the leadership strategy, i.e. greater involvement on the part of people in the workplace and actual experimentation and change on the part of participants. </para>
+        <para id="id6765527">A rubric statement example for “Exceeds Standards”:</para>
+        
+        <section id="eip-559"><para id="eip-674">
+Works with two or more peers in the workplace to complete the assignments in the project. The reflective journal summary report documents the development of a professional culture of collaboration and includes examples of changes in practice that resulted from teachers sharing information, analyzing student outcomes, and planning for improvement.
+</para></section><para id="id7550753">The use of a common template to organize student responses is strongly recommended. A template not only gives students an outline for presenting their work that aligns with the assessment rubric, it also makes evaluating the work easier for faculty. The template structure standardizes how students respond to the assignment and lets the assessor know where to look for evidence that key components were mastered. </para>
+        <para id="id7550757">The following example is a template intended to structure the reflective journal that faculty must review to evaluate student performance using the sample rubric developed above.</para>
+        
+        <para id="id6173053"><emphasis effect="bold">Assignment 1:  Reflective Journal Summary Report Template</emphasis></para>
+        <list id="id6804032" list-type="enumerated" number-style="arabic">
+          <item>Introduction and background information: A brief overview of your workplace and pertinent facts related to your efforts to recruit peers to participate in the project. (Basic school demographics, your role, the peer group you targeted, time spent, etc.)</item>
+          <item>Description of the leadership strategy you used to engage others in improving professional practice to increase student learning, and your rationale. </item>
+          <item>Narrative description of what happened. Briefly specify who was involved, the nature of the problem of practice you identified for this project, and what you were able to accomplish.</item>
+          <item>Analysis and interpretation of what happened.</item>
+          <item>Summary of overall meaning. (What is the significance of this experience? What did you learn?)</item>
+        </list>
+      </section>
+      <section id="id14178370">
+        <title>Step 6: Define the Assessment Standards</title>
+        <para id="id5395187">This step addresses the program accountability question, “What level of performance is good enough?” The performance assessment and scoring rubric establishes a common frame of reference for professional competence but faculty must determine the knowledge and skill level required for mastery; i.e. when the performance meets expectations. To use Dr. Anderson’s example from Chapter X, this is similar to the decision that a driver’s training instructor must make when assessing a student’s readiness to acquire a license. The standards are transparent and well known but it is up to the instructor to judge when the student knows enough and possess at least the minimal skill level to ensure they will not be a danger to others on the road. In this context, “minimal” is a passing grade, essentially indicating that the student met the standard at an acceptable level and is deemed competent to engage in the practice. </para>
+        <para id="id4771787">One way to begin this process is to submit the draft performance assessment documents for departmental peer review and discussion. This approach is a good way to get an initial sense of perceived face validity and how well the design elements align with the standards. During these discussions it would be helpful to engage in scenario building to explore what the baseline performance might look like. After field testing and implementation (Steps 7 – 10), continue checking the quality of student work, particularly marginal performances, to test the viability of the “cut point” that is established. </para>
+        <para id="id4771790">To this point, the chapter described six steps involved in designing performance assessments in relation to a set of professional standards. The process includes identifying key performances, developing activities that elicit the performances, and writing assessment rubrics to guide judgments about the quality of the performances. The next section contains a brief overview of the remaining three phases (6 steps) of high quality assessment outlined by Dr. Anderson viewed from the perspective of performance assessment design. </para>
+      </section>
+    </section>
+    <section id="id11263451">
+      <title>Evaluation, Implementation, and Program Development Phase</title>
+      <para id="id15586322">When the design phase is complete, the quality assessment process enters the evaluation phase, which consists of two steps; piloting the performance and using the rubric to evaluate samples of student work. </para>
+      <para id="id13158259">The goal of piloting is to seek feedback from students and faculty who may not have been directly involved in the design phase prior to implementation of the assessment at the program or department level. What appeared to be crystal clear during the writing process often turns out to be confusing or cumbersome when one actually tries to follow the directions or use the rubric to assess students’ work. Piloting allows tweaking to occur before final implementation. Once a performance assessment is rolled out for use it is good practice to establish a review process that ensures monitoring and adjustment occurs over time. </para>
+      <para id="id13809734">During piloting actual student work is evaluated for the first time using the rubric that was developed and a content review of rated material presents an opportunity to refine the evaluation assessment standards that were established at the conclusion of the design phase. The process of selecting anchor performances, examples of student work at each level of the rubric, provides insight regarding how the assessment activity, assignment template and rubric are interacting to elicit the performance and guide documentation. Content analysis of anchor documents that meet or exceed standards is one way to ensure that the assessment is valid.</para>
+      <para id="id13809737">The evaluation phase ensures that the components of the assessment design are coherent, understandable, and differentiate performances as expected. Evaluation provides opportunity for quality control before going to scale. During the implementation phase that follows, faculty assessors are trained using the anchor performances to increase inter-rater reliability and the performance assessment becomes a program requirement for all students. </para>
+      <para id="id15614372">Program development is the final phase in the high quality assessment process. Among other things, this involves a close examination of achievement results to see if there might be evidence of unintended bias related to how the assessment was designed and written. Analysis of student outcomes and interpretation of the patterns of performance that emerge engage faculty in dialogue about the interrelationships among curriculum, instruction and assessment. These conversations inform the re-design phase as the next cycle of high quality assessment begins.</para>
+    </section>
+    <section id="id15618897">
+      <title>Conclusion</title>
+      <para id="id3900641">This chapter described high quality assessment practices associated with the design of performance assessments based on standards for Educational Leadership. Based on our experience at EMU, the process is involved and time-consuming but we have found that the payoff regarding program development is worth it in the end. </para>
+      <para id="id5558738">Some professors of educational leadership will engage in this work because they value performance assessment and believe it is the right thing to do. Others will do it because it is mandated by accreditation agencies or institutional policy. Regardless of the motivation for one’s engagement, we firmly believe the work should be of high quality. This overview of one strategy for designing performance assessment is an attempt to point us in that direction. </para>
+    </section>
+    <section id="id12350187">
+      <title>References</title>
+      <para id="id5248350">Council of Chief State School Officers. (2008). <emphasis effect="italics">Educational leadership policy standards: ISLLC 2008</emphasis>. Washington, DC: Author. Retrieved May 23, 2008, from <link url="http://www.ccsso.org/publications/details.cfm?PublicationID=365">http://www.ccsso.org/publications/details.cfm?PublicationID=365</link></para>
+      <para id="id12336655">Sanders, N. M., &amp; Kearney, K. M. (Eds.). (2008). <emphasis effect="italics">Performance expectations and indicators for education leaders: An ISLLC-based guide to implementing leader standards and a companion guide to the educational leadership policy standards: ISLLC 2008</emphasis>. Washington, DC: State Consortium on Education Leadership, Council of Chief State School Officers. Retrieved June 9, 2008, from <link url="http://www.ccsso.org/publications/details.cfm?PublicationID=367">http://www.ccsso.org/publications/details.cfm?PublicationID=367</link></para>
+      <para id="id14839283">Squires, D. A. (2005). <emphasis effect="italics">Aligning and balancing the standards based curriculum</emphasis>. Thousand Oaks, CA: Corwin Press.</para>
+    </section>
+    
+    <section id="id4474606">
+      <title>Appendix</title>
+      <note id="eip-770">Excerpt from: Performance expectations and indicators for education leaders: An ISLLC-based guide to implementing leader standards and a common guide to the educational leadership policy standards.</note><para id="eip-0">Performance Expectation 2: Teaching and Learning</para><para id="id7211466">Education leaders ensure achievement and success of all students by monitoring and continuously improving teaching and learning.</para>
+      <para id="id14326498">Dispositions exemplified in Expectation 2:</para>
+      <para id="id10079857">Education leaders believe in, value, and are committed to </para>
+      <list id="id10079862" list-type="bulleted">
+        <item>Learning as the fundamental purpose of school</item>
+        <item>Diversity as an asset</item>
+        <item>Continuous professional growth and development</item>
+        <item>Livelong learning</item>
+        <item>Collaboration with all stakeholders</item>
+        <item>High expectations for all</item>
+        <item>Student learning</item>
+      </list>
+      <para id="id5200609">Narrative</para>
+      <para id="id8918406">A strong, positive, professional culture fosters learning by all educators and students. In a strong professional culture, leaders share and distribute responsibilities to provide quality, effectiveness, and coherence across all components of the instructional system (such as curriculum, instructional materials, pedagogy, and student assessment). Leaders are responsible for a professional culture in which learning opportunities are targeted to the vision and goals and differentiated appropriately to meet the needs of every student. Leaders need knowledge, skills, and beliefs that provide equitable differentiation of instruction and curriculum materials to be effective with a range of student characteristics, needs, and achievement.</para>
+      <para id="id8918410">A strong professional culture includes reflection, timely and specific feedback that improves practice, and support for continuous improvement toward vision and goals for student learning. Educators plan their own professional learning strategically, building their own capacities on the job. Leaders engage in continuous inquiry about effectiveness of curricular and instructional practices and work collaboratively to make appropriate changes that improve results.</para>
+      
+      <para id="id11569808">Element A: Strong Professional Culture</para>
+      <para id="id11569812">A strong professional culture supports teacher learning and shared commitments to the vision and goals.</para>
+      <para id="id10294486">Indicators: A leader…</para>
+      <list id="id16550291" list-type="enumerated" number-style="arabic">
+        <item>Develop shared understanding, capacities, and commitment to high expectations for all students and closing achievement gaps.</item>
+        <item>Guides and supports job-embedded, standards-based professional development that improves teaching and learning and meets diverse learning needs of every student.</item>
+        <item>Models openness to change and collaboration that improves practices and student outcomes.</item>
+        <item>Develops time and resources to build a professional culture of openness and collaboration, engaging teachers in sharing information, analyzing outcomes, and planning improvement.</item>
+        <item>Provides support, time, and resources for leaders and staff to examine their own beliefs, values, and practices in relation to the vision and goals for teaching and learning.</item>
+        <item>Provides ongoing feedback using data, assessments, and evaluation methods that improve practice.</item>
+        <item>Guides and monitors individual professional development plans and progress for continuous improvement of teaching and learning.</item>
+      </list>
+      <para id="id5804118">Element B: Rigorous Curriculum and Instruction</para>
+      <para id="id3445024">Improving achievement of all students requires all educators to know and use rigorous curriculum and effective instructional practices, individualized for success of every student.</para>
+      <para id="id7680226">Indicators: A leader…</para>
+      <list id="id14290536" list-type="enumerated" number-style="arabic">
+        <item>Develops shared understanding of rigorous curriculum and standards-based instructional programs, working with teams to analyze student work, monitor student progress, and redesign curricular and instructional programs to meet diverse needs.</item>
+        <item>Provides coherent, effective guidance of rigorous curriculum and instruction, aligning content standards, curriculum, teaching, assessments, professional development, assessments, and evaluation methods.</item>
+        <item>Provides and monitors effects of differentiated teaching strategies, curricular materials, educational technologies, and other resources appropriate to address diverse student populations, including students with disabilities, cultural and linguistic differences, gifted and talented, disadvantaged social economic backgrounds, or other factors affecting learning.</item>
+        <item>Identifies and uses high-quality research and data-based strategies and practices that are appropriate in the local context to increase learning for every student.</item>
+      </list>
+      <para id="id15450639">Element C: Assessment and Accountability</para>
+      <para id="id11540911">Improving achievement and closing achievement gaps require that leaders make appropriate, sound use of assessments, performance management, and accountability strategies to achieve vision, mission, and goals.</para>
+      <para id="id4637574">Indicators: A leader…</para>
+      <list id="id7268198" list-type="enumerated" number-style="arabic">
+        <item>Develops and appropriately uses aligned, standards-based accountability data to improve the quality of teaching and learning.</item>
+        <item>Uses varied sources and kinds of information and assessments (such as test scores, work samples, and teacher judgment) to evaluate student learning, effective teaching, and program quality.</item>
+        <item>Guides regular analyses and disaggregation of data about all students to improve instructional programs.</item>
+        <item>Uses effective data-based technologies and performance management systems to monitor and analyze assessment results for accountability reporting and to guide continuous improvement.</item>
+        <item>Interprets data and communicates progress toward vision, mission, and goals for educations, the school community, and other stakeholders.</item>
+      </list>
+      <para id="id13248419">Source: Sanders, N. M., &amp; Kearney, K. M. (Eds.). (2008). <emphasis effect="italics">Performance expectations and indicators for education leaders: An ISLLC-based guide to implementing leader standards and a companion guide to the educational leadership policy standards: ISLLC 2008</emphasis>. Washington, DC: State Consortium on Education Leadership, Council of Chief State School Officers (pp. 16-18).</para>
+    </section>
+  </content>
+</document>
